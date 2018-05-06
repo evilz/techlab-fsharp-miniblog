@@ -1,0 +1,21 @@
+@import url("https://use.fontawesome.com/releases/v5.0.12/css/all.css");
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    color:  #262626
+}
+.reveal h1{
+    font-size: 1.6em;
+    color: #262626
+}
+
+
+.reveal {
+    color:  #262626
+}
+
+.reveal .controls {
+    color:white;
+}
+
+
+
