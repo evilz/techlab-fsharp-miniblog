@@ -1,0 +1,14 @@
+C:\Users\evilz\Documents\GITHUB\techlab-fsharp-miniblog\myblog\bin\Debug\netcoreapp2.0\myblog.deps.json
+C:\Users\evilz\Documents\GITHUB\techlab-fsharp-miniblog\myblog\bin\Debug\netcoreapp2.0\myblog.runtimeconfig.json
+C:\Users\evilz\Documents\GITHUB\techlab-fsharp-miniblog\myblog\bin\Debug\netcoreapp2.0\myblog.runtimeconfig.dev.json
+C:\Users\evilz\Documents\GITHUB\techlab-fsharp-miniblog\myblog\bin\Debug\netcoreapp2.0\myblog.dll
+C:\Users\evilz\Documents\GITHUB\techlab-fsharp-miniblog\myblog\bin\Debug\netcoreapp2.0\myblog.pdb
+C:\Users\evilz\Documents\GITHUB\techlab-fsharp-miniblog\myblog\obj\Debug\netcoreapp2.0\myblog.csproj.CoreCompileInputs.cache
+C:\Users\evilz\Documents\GITHUB\techlab-fsharp-miniblog\myblog\obj\Debug\netcoreapp2.0\myblog.AssemblyInfoInputs.cache
+C:\Users\evilz\Documents\GITHUB\techlab-fsharp-miniblog\myblog\obj\Debug\netcoreapp2.0\myblog.AssemblyInfo.cs
+C:\Users\evilz\Documents\GITHUB\techlab-fsharp-miniblog\myblog\obj\Debug\netcoreapp2.0\myblog.dll
+C:\Users\evilz\Documents\GITHUB\techlab-fsharp-miniblog\myblog\obj\Debug\netcoreapp2.0\myblog.pdb
+C:\Users\evilz\Documents\GITHUB\techlab-fsharp-miniblog\myblog\obj\Debug\netcoreapp2.0\myblog.csprojResolveAssemblyReference.cache
+C:\Users\evilz\Documents\GITHUB\techlab-fsharp-miniblog\myblog\bin\Debug\netcoreapp2.0\fsharpblog.dll
+C:\Users\evilz\Documents\GITHUB\techlab-fsharp-miniblog\myblog\bin\Debug\netcoreapp2.0\fsharpblog.pdb
+C:\Users\evilz\Documents\GITHUB\techlab-fsharp-miniblog\myblog\obj\Debug\netcoreapp2.0\myblog.csproj.CopyComplete

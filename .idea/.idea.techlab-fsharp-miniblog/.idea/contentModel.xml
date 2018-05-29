@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\evilz\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_techlab-fsharp-miniblog.-1787699126.00" t="ExcludeRecursive" />
+    <e p="C:\Users\evilz\Documents\GITHUB\techlab-fsharp-miniblog" t="IncludeFlat">
+      <e p="fsharpblog" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="fsharpblog.fsproj" t="IncludeRecursive" />
+        <e p="Models.fs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.fs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.fs" t="Include" />
+        <e p="ViewModels.fs" t="Include" />
+      </e>
+      <e p="myblog" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BlogSettings.cs" t="Include" />
+        <e p="Controllers" t="Include">
+          <e p="AccountController.cs" t="Include" />
+          <e p="BlogController.cs" t="Include" />
+          <e p="RobotsController.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include" />
+        <e p="myblog.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="myblog.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="FileBlogService.cs" t="Include" />
+          <e p="IBlogService.cs" t="Include" />
+          <e p="MetaWeblogService.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Views" t="Include">
+          <e p="_ViewImports.cshtml" t="Include" />
+          <e p="_ViewStart.cshtml" t="Include" />
+          <e p="Account" t="Include">
+            <e p="Login.cshtml" t="Include" />
+          </e>
+          <e p="Blog" t="Include">
+            <e p="Comments.cshtml" t="Include" />
+            <e p="Edit.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+            <e p="Post.cshtml" t="Include" />
+          </e>
+          <e p="Shared" t="Include">
+            <e p="_Layout.cshtml" t="Include" />
+            <e p="_SocialSharing.cshtml" t="Include" />
+          </e>
+        </e>
+        <e p="web.config" t="Include" />
+        <e p="wwwroot" t="Include">
+          <e p="css" t="Include">
+            <e p="_variables.scss" t="Include" />
+            <e p="abovethefold.scss" t="Include" />
+            <e p="admin.scss" t="Include" />
+            <e p="belowthefold.scss" t="Include" />
+            <e p="comments.scss" t="Include" />
+            <e p="login.scss" t="Include" />
+          </e>
+          <e p="img" t="Include">
+            <e p="avatar.svg" t="Include" />
+            <e p="icon16x16.png" t="Include" />
+            <e p="icon180x180.png" t="Include" />
+          </e>
+          <e p="js" t="Include">
+            <e p="admin.js" t="Include" />
+            <e p="site.js" t="Include" />
+          </e>
+          <e p="lib" t="Include">
+            <e p="tinymce" t="Include">
+              <e p="license.txt" t="Include" />
+              <e p="skins" t="Include">
+                <e p="lightgray" t="Include">
+                  <e p="content.inline.min.css" t="Include" />
+                  <e p="content.min.css" t="Include" />
+                  <e p="content.mobile.min.css" t="Include" />
+                  <e p="fonts" t="Include">
+                    <e p="tinymce-mobile.woff" t="Include" />
+                    <e p="tinymce-small.eot" t="Include" />
+                    <e p="tinymce-small.svg" t="Include" />
+                    <e p="tinymce-small.ttf" t="Include" />
+                    <e p="tinymce-small.woff" t="Include" />
+                    <e p="tinymce.eot" t="Include" />
+                    <e p="tinymce.svg" t="Include" />
+                    <e p="tinymce.ttf" t="Include" />
+                    <e p="tinymce.woff" t="Include" />
+                  </e>
+                  <e p="img" t="Include">
+                    <e p="anchor.gif" t="Include" />
+                    <e p="loader.gif" t="Include" />
+                    <e p="object.gif" t="Include" />
+                    <e p="trans.gif" t="Include" />
+                  </e>
+                  <e p="skin.min.css" t="Include" />
+                  <e p="skin.mobile.min.css" t="Include" />
+                </e>
+              </e>
+              <e p="tinymce.min.js" t="Include" />
+            </e>
+          </e>
+          <e p="Posts" t="Include">
+            <e p="636435178866789258.xml" t="Include" />
+          </e>
+          <e p="wlwmanifest.xml" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="techlab-fsharp-miniblog.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

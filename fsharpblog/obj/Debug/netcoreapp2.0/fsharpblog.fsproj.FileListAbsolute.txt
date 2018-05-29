@@ -1,0 +1,8 @@
+C:\Users\evilz\Documents\GITHUB\techlab-fsharp-miniblog\fsharpblog\bin\Debug\netcoreapp2.0\fsharpblog.deps.json
+C:\Users\evilz\Documents\GITHUB\techlab-fsharp-miniblog\fsharpblog\bin\Debug\netcoreapp2.0\fsharpblog.runtimeconfig.json
+C:\Users\evilz\Documents\GITHUB\techlab-fsharp-miniblog\fsharpblog\bin\Debug\netcoreapp2.0\fsharpblog.runtimeconfig.dev.json
+C:\Users\evilz\Documents\GITHUB\techlab-fsharp-miniblog\fsharpblog\bin\Debug\netcoreapp2.0\fsharpblog.dll
+C:\Users\evilz\Documents\GITHUB\techlab-fsharp-miniblog\fsharpblog\bin\Debug\netcoreapp2.0\fsharpblog.pdb
+C:\Users\evilz\Documents\GITHUB\techlab-fsharp-miniblog\fsharpblog\obj\Debug\netcoreapp2.0\fsharpblog.dll
+C:\Users\evilz\Documents\GITHUB\techlab-fsharp-miniblog\fsharpblog\obj\Debug\netcoreapp2.0\fsharpblog.pdb
+C:\Users\evilz\Documents\GITHUB\techlab-fsharp-miniblog\fsharpblog\obj\Debug\netcoreapp2.0\fsharpblog.fsprojResolveAssemblyReference.cache
