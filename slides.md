@@ -1,9 +1,10 @@
 ---
 customTheme : "soat"
+controls: false
 ---
 
 <!-- .slide: data-background="assets/soat-1.png" -->
-# Introduire du code F# au sein d’une application C#
+# Introduire du code F# au sein d’une application C#.   
 
 ---
 
@@ -13,6 +14,12 @@ customTheme : "soat"
 - <i class="fab fa-github"></i> Github : https://github.com/evilz
 - <i class="fab fa-twitter"></i> Twitter : @Evilznet
 
+---
+<!-- .slide: data-background="assets/soat-2.png" -->
+
+# WIFI
+
+SOWIFI / SO4TW1F1
 
 
 ---
