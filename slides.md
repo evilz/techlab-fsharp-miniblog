@@ -14,15 +14,6 @@ controls: false
 - <i class="fab fa-github"></i> Github : https://github.com/evilz
 - <i class="fab fa-twitter"></i> Twitter : @Evilznet
 
----
-<!-- .slide: data-background="assets/soat-2.png" -->
-
-# WIFI
-
-SOWIFI / SO4TW1F1
-
-
----
 
 <!-- .slide: data-background="assets/soat-2.png" -->
 ## Objectifs
